@@ -1,0 +1,23 @@
+# Node modules
+/node_modules/
+
+# IDE specific files
+/.idea/
+
+# Build directories
+/dist/
+/build/
+/out/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
